@@ -8,7 +8,7 @@ The screenshot shows an interface for selecting and downloading reports. Each re
 
 Implement the features below using the included assets. Most of the HTML and CSS assets required have been included for you. You may use whichever open source libraries you feel comfortable with, including jQuery, Backbone and Angular. For this exercise, you will only need to support modern browsers.
 
-The challenge should take on average 2-3 hours. Please record the length of time taken, and submit it to your recruiting contact alongside a zip file containing your solution.
+The challenge should take on average 6-8 hours. Please record the length of time taken, and submit it to your recruiting contact alongside a zip file containing your solution.
 
 ## Features
 
